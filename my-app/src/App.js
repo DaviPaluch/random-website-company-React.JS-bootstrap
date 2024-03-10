@@ -4,6 +4,8 @@ import AppHeader from './components/header';
 import AppHero from './components/hero';
 import AppAbout from './components/about';
 import AppServices from './components/services';
+import AppWorks from './components/works';
+import AppTeams from './components/teams';
 
 
 function App() {
@@ -16,6 +18,8 @@ function App() {
         <AppHero/>
         <AppAbout/>
         <AppServices/>
+        <AppWorks/>
+        <AppTeams/>
       </main>
     </div>
   );
