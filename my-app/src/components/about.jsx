@@ -16,9 +16,9 @@ export default function AppAbout() {
     return (
         <section id='about' className='block about-block'>
             <Container fluid>
-                <div className='tittle-holder'>
+                <div className='title-holder'>
                     <h2>About Us</h2>
-                    <div className='subtittle'>learn more about us</div>
+                    <div className='subtitle'>learn more about us</div>
                 </div>
                 <Row>
                     <Col sm={6}>
